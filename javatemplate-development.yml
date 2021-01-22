@@ -1,3 +1,5 @@
+server.port: 8018
+
 spring:
   datasource:
     url: jdbc:postgres://localhost:5432/stonks
