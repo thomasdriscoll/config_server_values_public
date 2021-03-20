@@ -4,8 +4,8 @@ server.port : 8019
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5433/iliad
-    username: username
-    password: password
+    username: developer
+    password: testing
     driver-class-name: org.postgresql.Driver
   jpa:
     database-platform : org.hibernate.dialect.PostgreSQLDialect
