@@ -1,0 +1,1 @@
+//This build gradle is solely used to be able to have multiple projects open in IntelliJ

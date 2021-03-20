@@ -1,2 +1,2 @@
-# config_server_values_public
+# Configurations
 A public facing .yml file for configuration values; for local testing only
